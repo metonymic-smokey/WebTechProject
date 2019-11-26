@@ -30,14 +30,14 @@ username=.$_SESSION['username'];
 <script>
 
 var firebaseConfig = {
-apiKey: "AIzaSyBvKqHhpd1lwthcDeJ6KVtQXM6GhvTlBQ0",
-authDomain: "saki-bb7e8.firebaseapp.com",
-databaseURL: "https://saki-bb7e8.firebaseio.com",
-projectId: "saki-bb7e8",
-storageBucket: "saki-bb7e8.appspot.com",
-messagingSenderId: "473923008294",
-appId: "1:473923008294:web:8cbbb24061454f2e9bf3e7",
-measurementId: "G-FNW4BD06PM"
+apiKey: "xxxxx",
+authDomain: "xxxx",
+databaseURL: "xxxx",
+projectId: "xxxx",
+storageBucket: "xxxxx",
+messagingSenderId: "xxxxx",
+appId: "xxxxxx",
+measurementId: "xxxxxxx"
 };
 
 
